@@ -121,5 +121,8 @@
   },
   "examples/adaptivecards/FlightItinerary.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/FlightUpdate.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
