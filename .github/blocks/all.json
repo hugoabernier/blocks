@@ -169,5 +169,8 @@
   },
   "examples/adaptivecards/WeatherCompact.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/WeatherLarge.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
