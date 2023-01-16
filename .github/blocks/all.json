@@ -82,5 +82,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-security-alert.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-table.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
