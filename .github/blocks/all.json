@@ -142,5 +142,8 @@
   },
   "examples/adaptivecards/InputsWithValidation.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/OrderConfirmation.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
