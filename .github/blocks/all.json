@@ -94,5 +94,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-view-task-details.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-view-tasks.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
