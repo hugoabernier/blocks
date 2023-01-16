@@ -46,5 +46,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-cafe.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-calendar.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
