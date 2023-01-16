@@ -136,5 +136,8 @@
   },
   "examples/adaptivecards/InputForm.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/InputFormWithRTL.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
