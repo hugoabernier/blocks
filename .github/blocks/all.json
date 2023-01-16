@@ -124,5 +124,8 @@
   },
   "examples/adaptivecards/FlightUpdate.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/FlightUpdateTable.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
