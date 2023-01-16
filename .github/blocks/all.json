@@ -115,5 +115,8 @@
   },
   "examples/adaptivecards/ExpenseReport.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/FlightDetails.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
