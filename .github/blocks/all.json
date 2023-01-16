@@ -76,5 +76,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-product.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-quote-of-the-day.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
