@@ -55,5 +55,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-employee-onboarding.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-event.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
