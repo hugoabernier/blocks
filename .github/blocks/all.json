@@ -85,5 +85,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-table.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-time-off.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
