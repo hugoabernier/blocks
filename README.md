@@ -52,7 +52,7 @@ Check out our example folder Block by [clicking the root folder of this repo](ht
 ### View live data
 
 <BlockComponent
-block={{"type":"file","id":"processing","title":"Holidays","description":"An example Adaptive Card","sandbox":true,"entry":"blocks/file-blocks/processing.tsx","matches":["*.json"],"example_path":"https://github.com/hugoabernier/blocks/blob/main/examples/adaptivecards-templates/ac-qv-holidays.json","owner":"hugoabernier","repo":"blocks"}}
+block={{"type":"file","id":"adaptivecard-block","title":"Adaptive Card Viewer","description":"Previews Adaptive Card JSON files","sandbox":true,"entry":"blocks/adaptivecard-block/index.tsx","matches":["*.json"],"example_path":"https://github.com/microsoft/AdaptiveCards/blob/main/samples/v1.6/Elements/Carousel.json","owner":"hugoabernier","repo":"blocks-adaptivecards"}}
 context={{"repo":"blocks","owner":"hugoabernier","path":"examples/adaptivecards-templates/ac-qv-holidays.json","sha":"main","file":"ac-qv-holidays.json"}}
 height={438}
 />
@@ -60,7 +60,7 @@ height={438}
 Since we have complete control over this content, we can render live data: say we wanted to show off our p5.js sketch, we can do that inline:
 
 <BlockComponent
-block={{"type":"file","id":"processing","title":"p5.js","description":"Run a p5.js sketch","sandbox":true,"entry":"blocks/file-blocks/processing.tsx","matches":["*.js"],"example_path":"https://github.com/githubnext/blocks-tutorial/blob/main/processing-sketch.js","owner":"githubnext","repo":"blocks-examples"}}
+block={{"type":"file","id":"b","title":"p5.js","description":"Run a p5.js sketch","sandbox":true,"entry":"blocks/file-blocks/processing.tsx","matches":["*.js"],"example_path":"https://github.com/githubnext/blocks-tutorial/blob/main/processing-sketch.js","owner":"githubnext","repo":"blocks-examples"}}
 context={{"repo":"blocks","owner":"githubnext","path":"examples/p5-sketch.js","sha":"main","file":"README.md"}}
 height={438}
 />
