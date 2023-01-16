@@ -37,5 +37,8 @@
   },
   "examples/adaptivecards/calendarreminder.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/flightitinirary.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
