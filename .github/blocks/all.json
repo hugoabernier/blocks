@@ -49,5 +49,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-calendar.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-create-ticket.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
