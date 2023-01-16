@@ -154,5 +154,8 @@
   },
   "examples/adaptivecards/Restaurant.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/RestaurantOrder.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
