@@ -106,5 +106,8 @@
   },
   "examples/adaptivecards/Agenda.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/ApplicationLogin.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
