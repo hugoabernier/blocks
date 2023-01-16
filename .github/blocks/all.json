@@ -163,5 +163,8 @@
   },
   "examples/adaptivecards/SportingEvent.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/StockUpdate.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
