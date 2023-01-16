@@ -130,5 +130,8 @@
   },
   "examples/adaptivecards/FoodOrder.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/ImageGallery.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
