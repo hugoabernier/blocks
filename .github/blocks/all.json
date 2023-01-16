@@ -151,5 +151,8 @@
   },
   "examples/adaptivecards/ProductVideo.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/Restaurant.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
