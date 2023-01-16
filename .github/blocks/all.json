@@ -97,5 +97,8 @@
   },
   "examples/adaptivecard-templates/ac-qv-view-tasks.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecard-templates/ac-qv-yammer-liveevents.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
