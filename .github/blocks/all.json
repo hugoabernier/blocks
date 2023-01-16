@@ -112,5 +112,8 @@
   },
   "examples/adaptivecards/CalendarReminder.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/ExpenseReport.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
