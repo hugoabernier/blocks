@@ -25,5 +25,8 @@
   },
   "README.md": {
     "default": "githubnext__blocks-examples__markdown-block"
+  },
+  "examples/adaptivecards/ac-qv-benefits.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
