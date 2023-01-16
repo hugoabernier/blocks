@@ -28,5 +28,8 @@
   },
   "examples/adaptivecards/ac-qv-benefits.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/ac-qv-employee-onboarding.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
