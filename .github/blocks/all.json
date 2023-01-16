@@ -157,5 +157,8 @@
   },
   "examples/adaptivecards/RestaurantOrder.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/ShowCardWizard.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
