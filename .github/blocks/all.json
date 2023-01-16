@@ -148,5 +148,8 @@
   },
   "examples/adaptivecards/OrderDelivery.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/ProductVideo.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
