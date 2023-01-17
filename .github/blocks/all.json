@@ -172,5 +172,8 @@
   },
   "examples/adaptivecards/WeatherLarge.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/adaptivecards/markdown.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
