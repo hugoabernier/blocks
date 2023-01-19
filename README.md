@@ -52,8 +52,8 @@ Check out our example folder Block by [clicking the root folder of this repo](ht
 ### View live data
 
 <BlockComponent
-block={{"type":"file","id":"adaptivecard-block","title":"Adaptive Card Viewer","description":"Previews Adaptive Card JSON files","sandbox":true,"entry":"blocks/adaptivecard-block/index.tsx","matches":["*.json"],"example_path":"https://github.com/microsoft/AdaptiveCards/blob/main/samples/v1.6/Elements/Carousel.json","owner":"hugoabernier","repo":"blocks-adaptivecards"}}
-context={{"repo":"blocks","owner":"hugoabernier","path":"examples/adaptivecards-templates/ac-qv-holidays.json","sha":"main","file":"ac-qv-holidays.json"}}
+block={{"type":"file","id":"adaptivecard-block","title":"Adaptive Card Viewer","description":"Preview Adaptive Card files on different hosts, themes, and device emulations","entry":"blocks/adaptivecard-block/index.tsx","matches":["*.json"],"example_path":"https://github.com/microsoft/AdaptiveCards/blob/main/samples/v1.6/Elements/Carousel.json","owner":"hugoabernier","repo":"blocks-adaptivecards"}}
+context={{"repo":"blocks","owner":"hugoabernier","path":"examples/adaptivecard-templates/ac-qv-benefits.json","sha":"main","file":"ac-qv-holidays.json"}}
 height={438}
 />
 
