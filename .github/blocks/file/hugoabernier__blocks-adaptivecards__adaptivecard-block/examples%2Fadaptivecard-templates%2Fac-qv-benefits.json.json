@@ -1,4 +1,5 @@
 {
   "theme": "Dark",
-  "hostApp": "Viva Connections"
+  "hostApp": "Viva Connections",
+    "hideToolbar": true
 }
