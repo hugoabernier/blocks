@@ -1,5 +1,6 @@
 {
   "theme": "Dark",
   "hostApp": "Microsoft Teams",
-    "hideToolbar": false
+  "deviceEmulation": "Small tablet (768px)",
+  "hideToolbar": false
 }
