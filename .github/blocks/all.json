@@ -175,5 +175,8 @@
   },
   "examples/adaptivecards/markdown.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/exception-handling/invalid-adaptivecard.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
