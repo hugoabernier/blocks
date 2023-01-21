@@ -178,5 +178,8 @@
   },
   "examples/exception-handling/invalid-adaptivecard.json": {
     "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
+  },
+  "examples/exception-handling/invalid-json.json": {
+    "default": "hugoabernier__blocks-adaptivecards__adaptivecard-block"
   }
 }
